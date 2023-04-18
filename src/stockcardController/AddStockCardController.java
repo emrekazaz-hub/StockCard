@@ -9,7 +9,7 @@ import stockCardModel.StockCard;
 import stockcardView.StockCardDesign;
 
 public class AddStockCardController {
-
+	//add
 	StockCard stockCardModel;
 	StockCardDesign stockCardDesign;
 	MainModel mainModel;
